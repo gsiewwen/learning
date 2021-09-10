@@ -1,0 +1,23 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  color: sandybrown;
+  margin-left: 20px;
+  margin-right: 50px;
+  background-color: powderblue;
+  font-size: 40px;
+}
+
+div {
+  height: 600px;
+  width: 600px;
+  background-color: lightcoral;
+  border-radius: 50%;
+}
+
+.highlight {
+	font-size: 35px;
+	text-shadow: 2px 2px 5px red;
+}
